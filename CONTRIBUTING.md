@@ -96,7 +96,22 @@ fetch steps above so the entry gets cached, then re-run the checker.
 
 The cover is generated artwork; its prompt is saved in `assets/cover-prompt.txt`.
 The research timeline is an editable SVG built from selected README entries. Update the
-selection in `scripts/build_timeline.py`, then run `python3 scripts/build_timeline.py`.
+selection in `scripts/build_timeline.py`, then regenerate the SVG and README PNG:
+
+```bash
+uv run --with cairosvg python scripts/build_timeline.py --png
+```
+
+On Homebrew macOS, prefix that command with `DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib`
+if Cairo cannot be located. The SVG-only command needs no external dependencies:
+`python3 scripts/build_timeline.py`.
+
+For each new card, record its institution and primary affiliation source in
+`assets/timeline-affiliations.json`. Logo files and their source URLs are stored under
+`assets/logos/` and `assets/institutions.json`. Prefer the first author's first listed
+institution; for team papers, use the first listed institution. Never infer an
+affiliation from the model being used. Keep explicit team/independent/not-stated labels
+when the paper does not identify an institution. Third-party logos retain their owners' rights.
 Keep it selective, use first-submission dates, and do not imply that chronology proves
 capability gains or progress to AGI.
 

@@ -1,0 +1,631 @@
+{
+  "2210.03629": {
+    "label": "ReAct",
+    "institution": "princeton",
+    "source": "https://arxiv.org/html/2210.03629",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2307.16789": {
+    "label": "ToolLLM",
+    "institution": "tsinghua",
+    "source": "https://arxiv.org/html/2307.16789",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2310.03714": {
+    "label": "DSPy",
+    "institution": "stanford",
+    "source": "https://arxiv.org/html/2310.03714",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2402.16823": {
+    "label": "GPTSwarm",
+    "institution": "kaust",
+    "source": "https://arxiv.org/html/2402.16823",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2405.15793": {
+    "label": "SWE-agent",
+    "institution": "princeton",
+    "source": "https://arxiv.org/html/2405.15793",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2406.07496": {
+    "label": "TextGrad",
+    "institution": "stanford",
+    "source": "https://arxiv.org/html/2406.07496",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2407.19056": {
+    "label": "OfficeBench",
+    "institution": "ucsd",
+    "source": "https://arxiv.org/html/2407.19056",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2408.09559": {
+    "label": "HiAgent",
+    "institution": "hku",
+    "source": "https://arxiv.org/pdf/2408.09559",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2310.02304": {
+    "label": "STOP",
+    "institution": "stanford",
+    "source": "https://arxiv.org/pdf/2310.02304",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2406.14228": {
+    "label": "EvoAgent",
+    "institution": "fudan",
+    "source": "https://arxiv.org/html/2406.14228",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2408.08435": {
+    "label": "ADAS",
+    "institution": "ubc",
+    "source": "https://arxiv.org/html/2408.08435",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2410.04444": {
+    "label": "Gödel Agent",
+    "institution": "pku",
+    "source": "https://arxiv.org/html/2410.04444",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2410.06153": {
+    "label": "AgentSquare",
+    "institution": "tsinghua",
+    "source": "https://arxiv.org/html/2410.06153",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2410.10762": {
+    "label": "AFlow",
+    "institution": "deepwisdom",
+    "source": "https://arxiv.org/html/2410.10762",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2503.09572": {
+    "label": "Plan-and-Act",
+    "institution": "berkeley",
+    "source": "https://arxiv.org/html/2503.09572",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2504.07079": {
+    "label": "SkillWeaver",
+    "institution": "osu",
+    "source": "https://arxiv.org/html/2504.07079",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2504.13958": {
+    "label": "ToolRL",
+    "institution": "uiuc",
+    "source": "https://arxiv.org/html/2504.13958",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2504.19413": {
+    "label": "Mem0",
+    "institution": "mem0",
+    "source": "https://arxiv.org/html/2504.19413",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2507.02652": {
+    "label": "HiRA",
+    "institution": "renmin",
+    "source": "https://arxiv.org/pdf/2507.02652",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2508.09124": {
+    "label": "OdysseyBench",
+    "institution": "edinburgh",
+    "source": "https://arxiv.org/html/2508.09124",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2509.13313": {
+    "label": "ReSum",
+    "institution": "cuhk",
+    "source": "https://arxiv.org/html/2509.13313",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2510.11977": {
+    "label": "HAL",
+    "institution": "princeton",
+    "source": "https://arxiv.org/pdf/2510.11977",
+    "basis": "First author contact at princeton.edu; paper links author affiliations at hal.cs.princeton.edu."
+  },
+  "2510.24699": {
+    "label": "AgentFold",
+    "institution": "alibaba",
+    "source": "https://arxiv.org/html/2510.24699",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2512.24615": {
+    "label": "Youtu-Agent",
+    "institution": "tencent",
+    "source": "https://arxiv.org/pdf/2512.24615",
+    "basis": "Institutions listed in the paper Contributions section; first listed institution displayed."
+  },
+  "2502.00757": {
+    "label": "AgentBreeder",
+    "institution": "oxford",
+    "source": "https://arxiv.org/html/2502.00757",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2502.04180": {
+    "label": "Agentic Supernet",
+    "institution": "nus",
+    "source": "https://arxiv.org/html/2502.04180",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2505.22954": {
+    "label": "Darwin Gödel Machine",
+    "institution": "ubc",
+    "source": "https://arxiv.org/html/2505.22954",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2506.06017": {
+    "label": "AgentSwift",
+    "institution": "tsinghua",
+    "source": "https://arxiv.org/pdf/2506.06017",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2507.03616": {
+    "label": "EvoAgentX",
+    "institution": "mbzuai",
+    "source": "https://arxiv.org/html/2507.03616",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2510.10232": {
+    "label": "Statistical Gödel Machine",
+    "institution": "fudan",
+    "source": "https://arxiv.org/html/2510.10232",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2511.13646": {
+    "label": "Live-SWE-agent",
+    "institution": "uiuc",
+    "source": "https://arxiv.org/html/2511.13646",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2512.18746": {
+    "label": "MemEvolve",
+    "institution": "oppo",
+    "source": "https://arxiv.org/pdf/2512.18746",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2601.02163": {
+    "label": "EverMemOS",
+    "institution": "shanda",
+    "source": "https://arxiv.org/html/2601.02163",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2601.08079": {
+    "label": "MemoBrain",
+    "institution": "baai",
+    "source": "https://arxiv.org/html/2601.08079",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2601.11868": {
+    "label": "Terminal-Bench",
+    "institution": "stanford",
+    "source": "https://arxiv.org/html/2601.11868",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2601.20975": {
+    "label": "DeepSearchQA",
+    "institution": "google",
+    "source": "https://arxiv.org/html/2601.20975",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2602.01848": {
+    "label": "ROMA",
+    "institution": "sentient",
+    "source": "https://arxiv.org/html/2602.01848",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2602.03786": {
+    "label": "AOrchestra",
+    "institution": "deepwisdom",
+    "source": "https://arxiv.org/html/2602.03786",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2602.07883": {
+    "label": "ToolSelf",
+    "institution": "hku",
+    "source": "https://arxiv.org/html/2602.07883",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2602.17100": {
+    "label": "AgentConductor",
+    "institution": "sjtu",
+    "source": "https://arxiv.org/html/2602.17100",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2602.07839": {
+    "label": "TodoEvolve",
+    "institution": null,
+    "source": "https://arxiv.org/pdf/2602.07839",
+    "basis": "No institution stated in inspected author/contribution sections.",
+    "badge": "TodoRL"
+  },
+  "2602.23413": {
+    "label": "EvoX",
+    "institution": "berkeley",
+    "source": "https://arxiv.org/pdf/2602.23413",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2603.03329": {
+    "label": "AutoHarness",
+    "institution": "google",
+    "source": "https://arxiv.org/html/2603.03329",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2603.28052": {
+    "label": "Meta-Harness",
+    "institution": "stanford",
+    "source": "https://arxiv.org/html/2603.28052",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2603.28342": {
+    "label": "Kernel-Smith",
+    "institution": "shanghai_ai",
+    "source": "https://arxiv.org/html/2603.28342",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2604.08224": {
+    "label": "Externalization",
+    "institution": "sjtu",
+    "source": "https://arxiv.org/pdf/2604.08224",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2605.08693": {
+    "label": "SkillMaster",
+    "institution": "shandong",
+    "source": "https://arxiv.org/html/2605.08693",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2605.18747": {
+    "label": "Code as Agent Harness",
+    "institution": "uiuc",
+    "source": "https://arxiv.org/html/2605.18747",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2605.27922": {
+    "label": "Harness-Bench",
+    "institution": "pku",
+    "source": "https://arxiv.org/html/2605.27922",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2606.10106": {
+    "label": "What Makes a Harness?",
+    "institution": "ifg",
+    "source": "https://arxiv.org/html/2606.10106",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2606.17546": {
+    "label": "SEAGym",
+    "institution": "tsinghua",
+    "source": "https://arxiv.org/html/2606.17546",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2604.20938": {
+    "label": "HARBOR",
+    "institution": "jpmorgan",
+    "source": "https://arxiv.org/html/2604.20938",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2604.21003": {
+    "label": "The Last Harness",
+    "institution": "sylph",
+    "source": "https://arxiv.org/html/2604.21003",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2604.25850": {
+    "label": "Agentic Harness Eng.",
+    "institution": "fudan",
+    "source": "https://arxiv.org/html/2604.25850",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2605.09998": {
+    "label": "Continual Harness",
+    "institution": "princeton",
+    "source": "https://arxiv.org/html/2605.09998",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2605.22794": {
+    "label": "MOSS",
+    "institution": "ustc",
+    "source": "https://arxiv.org/html/2605.22794",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2605.24539": {
+    "label": "DemoEvolve",
+    "institution": "tsinghua",
+    "source": "https://arxiv.org/html/2605.24539",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2605.27276": {
+    "label": "SIA",
+    "institution": "hexo",
+    "source": "https://arxiv.org/pdf/2605.27276",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2606.01314": {
+    "label": "SkillSmith",
+    "institution": "sjtu",
+    "source": "https://arxiv.org/html/2606.01314",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2606.01770": {
+    "label": "Adaptive Auto-Harness",
+    "institution": "emory",
+    "source": "https://arxiv.org/html/2606.01770",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2606.01779": {
+    "label": "HarnessForge",
+    "institution": "beihang",
+    "source": "https://arxiv.org/pdf/2606.01779",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2606.09498": {
+    "label": "Self-Harness",
+    "institution": "shanghai_ai",
+    "source": "https://arxiv.org/html/2606.09498",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2606.14249": {
+    "label": "HarnessX",
+    "institution": null,
+    "source": "https://arxiv.org/pdf/2606.14249",
+    "basis": "No institution stated in inspected author/contribution sections.",
+    "badge": "Darwin"
+  },
+  "2606.26294": {
+    "label": "Red Queen Gödel Machine",
+    "institution": "cambridge",
+    "source": "https://arxiv.org/pdf/2606.26294",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "https://ornith.ai/ornith_1_0.html": {
+    "label": "Ornith-1.0",
+    "institution": "ornith",
+    "source": "https://ornith.ai/ornith_1_0.html",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.05378": {
+    "label": "CompactionRL",
+    "institution": "tsinghua",
+    "source": "https://arxiv.org/html/2607.05378",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.12227": {
+    "label": "Rethinking Evaluation",
+    "institution": "allenai",
+    "source": "https://arxiv.org/pdf/2607.12227",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.14004": {
+    "label": "Do Optimizers Compound?",
+    "institution": "relai",
+    "source": "https://arxiv.org/html/2607.14004",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.21419": {
+    "label": "PATS",
+    "institution": "pku",
+    "source": "https://arxiv.org/pdf/2607.21419",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.21557": {
+    "label": "OpenForgeRL",
+    "institution": "columbia",
+    "source": "https://arxiv.org/html/2607.21557",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.03935": {
+    "label": "Harness-Aware SE",
+    "institution": "hku",
+    "source": "https://arxiv.org/html/2607.03935",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.05297": {
+    "label": "MetaSkill-Evolve",
+    "institution": "lmu",
+    "source": "https://arxiv.org/html/2607.05297",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.05458": {
+    "label": "Offline RL Control",
+    "institution": "toronto",
+    "source": "https://arxiv.org/html/2607.05458",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.08124": {
+    "label": "TTHE",
+    "institution": "hkbu",
+    "source": "https://arxiv.org/html/2607.08124",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.08938": {
+    "label": "Better Harnesses",
+    "institution": "cmu",
+    "source": "https://arxiv.org/html/2607.08938",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.13285": {
+    "label": "Harness Handbook",
+    "institution": "tencent",
+    "source": "https://arxiv.org/pdf/2607.13285",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.13683": {
+    "label": "HarnessBank",
+    "institution": "shanda",
+    "source": "https://arxiv.org/pdf/2607.13683",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.14159": {
+    "label": "MemoHarness",
+    "institution": "notredame",
+    "source": "https://arxiv.org/html/2607.14159",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.15524": {
+    "label": "Recursive Harness SI",
+    "institution": "sakana",
+    "source": "https://arxiv.org/html/2607.15524",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.26598": {
+    "label": "Living-Harness",
+    "institution": "zju",
+    "source": "https://arxiv.org/pdf/2607.26598",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.26722": {
+    "label": "DREvo",
+    "institution": "seu",
+    "source": "https://arxiv.org/pdf/2607.26722",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2607.27994": {
+    "label": "SKIMIX",
+    "institution": "hust",
+    "source": "https://arxiv.org/pdf/2607.27994",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.02276": {
+    "label": "Harness-R1",
+    "institution": "sjtu",
+    "source": "https://arxiv.org/html/2608.02276",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.05446": {
+    "label": "EvoHarness-RL",
+    "institution": "uiuc",
+    "source": "https://arxiv.org/html/2608.05446",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.06301": {
+    "label": "HarnessOpt-Bench",
+    "institution": "scale",
+    "source": "https://arxiv.org/html/2608.06301",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2609.01437": {
+    "label": "HarnessDev",
+    "institution": "bytedance",
+    "source": "https://arxiv.org/pdf/2609.01437",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.01918": {
+    "label": "HarnessCompass",
+    "institution": "bit",
+    "source": "https://arxiv.org/pdf/2608.01918",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.04968": {
+    "label": "EvolveNet",
+    "institution": "hkbu",
+    "source": "https://arxiv.org/html/2608.04968",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.07545": {
+    "label": "DarwinX",
+    "institution": "salesforce",
+    "source": "https://arxiv.org/html/2608.07545",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.07645": {
+    "label": "Mendel Gödel Machine",
+    "institution": "uestc",
+    "source": "https://arxiv.org/html/2608.07645",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.13560": {
+    "label": "AutoDesign",
+    "institution": "meituan",
+    "source": "https://arxiv.org/pdf/2608.13560",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.13951": {
+    "label": "HELIX",
+    "institution": "hku",
+    "source": "https://arxiv.org/html/2608.13951",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.19013": {
+    "label": "Harness Continual Learning",
+    "institution": "nju",
+    "source": "https://arxiv.org/html/2608.19013",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.23041": {
+    "label": "AutoSaddler",
+    "institution": "postech",
+    "source": "https://arxiv.org/pdf/2608.23041",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.24804": {
+    "label": "StarHarness",
+    "institution": "servicenow",
+    "source": "https://arxiv.org/pdf/2608.24804",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2608.25593": {
+    "label": "JIT-Agent",
+    "institution": "nus",
+    "source": "https://arxiv.org/pdf/2608.25593",
+    "basis": "Institutions listed in the paper Contributions section; first listed institution displayed."
+  },
+  "2608.26530": {
+    "label": "PILOT in the Loop",
+    "institution": null,
+    "source": "https://arxiv.org/pdf/2608.26530",
+    "basis": "No institution stated in inspected author/contribution sections.",
+    "badge": "AllSpark"
+  },
+  "2608.28363": {
+    "label": "EvoUndo",
+    "institution": null,
+    "source": "https://arxiv.org/html/2608.28363",
+    "basis": "Authors explicitly identify as independent researchers.",
+    "badge": "Ind."
+  },
+  "https://ornith.ai/ornith_1_5.html": {
+    "label": "Ornith-1.5",
+    "institution": "ornith",
+    "source": "https://ornith.ai/ornith_1_5.html",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2609.00196": {
+    "label": "WHALE",
+    "institution": "krafton",
+    "source": "https://arxiv.org/html/2609.00196",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2609.00829": {
+    "label": "HarnessEvolve",
+    "institution": "huawei",
+    "source": "https://arxiv.org/html/2609.00829",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2609.02786": {
+    "label": "SafeEvolve",
+    "institution": "shanghai_ai",
+    "source": "https://arxiv.org/pdf/2609.02786",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  },
+  "2609.06396": {
+    "label": "MetaRSI / RSI2",
+    "institution": null,
+    "source": "https://arxiv.org/pdf/2609.06396",
+    "basis": "No institution stated in inspected author/contribution sections.",
+    "badge": "N/S"
+  },
+  "2609.11677": {
+    "label": "Ecdysis",
+    "institution": "cas",
+    "source": "https://arxiv.org/html/2609.11677",
+    "basis": "First author first listed affiliation; first listed institution for team papers."
+  }
+}

@@ -30,6 +30,27 @@ Paper dates use the arXiv ID month (first submission), not a conference acceptan
 
 ---
 
+## Research Timeline
+
+<p align="center">
+  <a href="assets/research-timeline.svg"><img src="assets/research-timeline.png" alt="Selected harness-evolution research from 2022 to September 2026, grouped by first-submission period and research direction" width="100%"></a>
+</p>
+
+<p align="center"><em>Timeline of harness evolution research: foundations, training, and evaluation above; harness evolution methods below.</em></p>
+
+Selected works by first-submission period (not to scale). Logos show a representative author affiliation: the first author's first listed institution, or the first listed institution for team papers. Full titles and reading notes appear in the bibliography below.
+
+<details>
+<summary>Institution logos and source notes</summary>
+
+99 of the 104 selected works have an institution logo. TodoEvolve, HarnessX, and PILOT display the team names given in their papers; EvoUndo is marked **Ind.** (independent researchers); MetaRSI / RSI2 is marked **N/S** (institution not stated in the inspected author information). A logo identifies an affiliation, not sole authorship or institutional endorsement.
+
+[Paper affiliation sources](assets/timeline-affiliations.json) · [Logo sources](assets/institutions.json). Logos remain the property of their respective owners.
+
+</details>
+
+---
+
 ## Contents
 
 - [🗺️ Research Timeline](#research-timeline)
@@ -71,16 +92,6 @@ Paper dates use the arXiv ID month (first submission), not a conference acceptan
 - [📚 Related Awesome Lists](#related-awesome-lists)
 - [🤝 Contributing](#contributing)
 - [📄 License](#license)
-
----
-
-## Research Timeline
-
-<p align="center">
-  <a href="assets/research-timeline.svg"><img src="assets/research-timeline.svg" alt="Selected harness-evolution research from 2022 to September 2026, grouped by first-submission period and research direction" width="100%"></a>
-</p>
-
-Selected works from this list, grouped by first-submission period; column widths do not represent elapsed time. Colors distinguish research directions, not performance or a proven path to AGI. The full bibliography and reading notes follow below.
 
 ---
 

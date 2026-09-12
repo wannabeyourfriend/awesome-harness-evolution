@@ -1,0 +1,453 @@
+{
+  "princeton": {
+    "name": "Princeton University",
+    "website": "https://www.princeton.edu",
+    "logo": "logos/princeton.png",
+    "logo_source": "https://www.princeton.edu/themes/custom/hobbes/icons/apple-touch-icon.png",
+    "aspect_ratio": 1.0
+  },
+  "tsinghua": {
+    "name": "Tsinghua University",
+    "website": "https://www.tsinghua.edu.cn",
+    "logo": "logos/tsinghua.png",
+    "logo_source": "https://www.tsinghua.edu.cn/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "stanford": {
+    "name": "Stanford University",
+    "website": "https://www.stanford.edu",
+    "logo": "logos/stanford.png",
+    "logo_source": "https://www.stanford.edu/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "kaust": {
+    "name": "KAUST",
+    "website": "https://www.kaust.edu.sa",
+    "logo": "logos/kaust.png",
+    "logo_source": "https://www.kaust.edu.sa/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "ucsd": {
+    "name": "UC San Diego",
+    "website": "https://ucsd.edu",
+    "logo": "logos/ucsd.png",
+    "logo_source": "https://ucsd.edu/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "hku": {
+    "name": "University of Hong Kong",
+    "website": "https://www.hku.hk",
+    "logo": "logos/hku.png",
+    "logo_source": "https://www.hku.hk/etc.clientlibs/hkucms/clientlibs/clientlib-site/resources/icon-192x192.png",
+    "aspect_ratio": 1.0
+  },
+  "fudan": {
+    "name": "Fudan University",
+    "website": "https://www.fudan.edu.cn",
+    "logo": "logos/fudan.png",
+    "logo_source": "https://www.fudan.edu.cn/_upload/tpl/00/0e/14/template14/images/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "ubc": {
+    "name": "University of British Columbia",
+    "website": "https://www.ubc.ca",
+    "logo": "logos/ubc.png",
+    "logo_source": "https://cdn.ubc.ca/clf/7.0.5/img/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "pku": {
+    "name": "Peking University",
+    "website": "https://www.pku.edu.cn",
+    "logo": "logos/pku.png",
+    "logo_source": "https://www.pku.edu.cn/pku_logo_red.png",
+    "aspect_ratio": 1.0
+  },
+  "deepwisdom": {
+    "name": "DeepWisdom",
+    "website": "https://www.deepwisdom.ai",
+    "logo": "logos/deepwisdom.png",
+    "logo_source": "https://cdn.prod.website-files.com/636b38e728fa9f53f9d26b18/689d9d327952bfd7ea19b58a_DeepWisdom-c.png",
+    "aspect_ratio": 2.0
+  },
+  "berkeley": {
+    "name": "UC Berkeley",
+    "website": "https://www.berkeley.edu",
+    "logo": "logos/berkeley.png",
+    "logo_source": "https://open.berkeley.edu/profiles/openberkeley/themes/openberkeley_theme_brand/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "osu": {
+    "name": "Ohio State University",
+    "website": "https://www.osu.edu",
+    "logo": "logos/osu.png",
+    "logo_source": "https://www.osu.edu/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "uiuc": {
+    "name": "University of Illinois Urbana-Champaign",
+    "website": "https://illinois.edu",
+    "logo": "logos/uiuc.png",
+    "logo_source": "https://cdn.brand.illinois.edu/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "mem0": {
+    "name": "Mem0",
+    "website": "https://mem0.ai",
+    "logo": "logos/mem0.png",
+    "logo_source": "https://framerusercontent.com/images/2ys67ADJdvcyGmQnhp8vKWSq8.svg",
+    "aspect_ratio": 1.0
+  },
+  "renmin": {
+    "name": "Renmin University of China",
+    "website": "https://www.ruc.edu.cn",
+    "logo": "logos/renmin.png",
+    "logo_source": "https://www.ruc.edu.cn/template/1/out/imgs/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "edinburgh": {
+    "name": "University of Edinburgh",
+    "website": "https://www.ed.ac.uk",
+    "logo": "logos/edinburgh.png",
+    "logo_source": "https://www.ed.ac.uk/themes/upstream/wpp_theme/images/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "cuhk": {
+    "name": "Chinese University of Hong Kong",
+    "website": "https://www.cuhk.edu.hk",
+    "logo": "logos/cuhk.png",
+    "logo_source": "https://www.cuhk.edu.hk/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "alibaba": {
+    "name": "Alibaba Group / Tongyi Lab",
+    "website": "https://www.alibaba.com",
+    "logo": "logos/alibaba.png",
+    "logo_source": "https://s.alicdn.com/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "tencent": {
+    "name": "Tencent / Youtu Lab",
+    "website": "https://www.tencent.com",
+    "logo": "logos/tencent.png",
+    "logo_source": "https://www.tencent.com/wp-content/themes/tencent-web/assets/favicon/apple-touch-icon.png",
+    "aspect_ratio": 1.0
+  },
+  "oxford": {
+    "name": "University of Oxford",
+    "website": "https://www.ox.ac.uk",
+    "logo": "logos/oxford.png",
+    "logo_source": "https://www.bdi.ox.ac.uk/images/site-logos/oxford-logo",
+    "aspect_ratio": 1,
+    "viewbox": [
+      1627,
+      0,
+      1519,
+      1521
+    ],
+    "source_size": [
+      3146,
+      1521
+    ]
+  },
+  "nus": {
+    "name": "National University of Singapore",
+    "website": "https://www.nus.edu.sg",
+    "logo": "logos/nus.png",
+    "logo_source": "https://isresearchworkshop.comp.nus.edu.sg/images/nus.png",
+    "aspect_ratio": 2.174
+  },
+  "mbzuai": {
+    "name": "MBZUAI",
+    "website": "https://mbzuai.ac.ae",
+    "logo": "logos/mbzuai.png",
+    "logo_source": "https://slowdnn-workshop.github.io/assets/images/MBZUAI_FullName_Bilingual_Screen_RGB.jpg",
+    "aspect_ratio": 4.707
+  },
+  "shanda": {
+    "name": "Shanda Group / EverMind",
+    "website": "https://www.shanda.com",
+    "logo": "logos/shanda.png",
+    "logo_source": "https://www.shanda.com/wp-content/uploads/cropped-Shanda_website_icon-32x32.png?x34826",
+    "aspect_ratio": 1.0
+  },
+  "baai": {
+    "name": "Beijing Academy of Artificial Intelligence",
+    "website": "https://www.baai.ac.cn",
+    "logo": "logos/baai.png",
+    "logo_source": "https://www.baai.ac.cn/Upfile/File/2025-02-26/c843bcbb-5278-418d-bda6-f199bd9797f9..png",
+    "aspect_ratio": 1.0
+  },
+  "google": {
+    "name": "Google DeepMind",
+    "website": "https://deepmind.google",
+    "logo": "logos/google.png",
+    "logo_source": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+    "aspect_ratio": 1.0
+  },
+  "sentient": {
+    "name": "Sentient",
+    "website": "https://sentient.xyz",
+    "logo": "logos/sentient.png",
+    "logo_source": "https://sentient.xyz/favicon.ico?favicon.446e6c2e.ico",
+    "aspect_ratio": 1.0
+  },
+  "sjtu": {
+    "name": "Shanghai Jiao Tong University",
+    "website": "https://www.sjtu.edu.cn",
+    "logo": "logos/sjtu.png",
+    "logo_source": "https://www.sjtu.edu.cn/resource/assets/img/ico/favicon.png",
+    "aspect_ratio": 1.0
+  },
+  "shanghai_ai": {
+    "name": "Shanghai AI Laboratory",
+    "website": "https://www.shlab.org.cn",
+    "logo": "logos/shanghai_ai.png",
+    "logo_source": "https://www.shlab.org.cn/static/asset/img/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "shandong": {
+    "name": "Shandong University",
+    "website": "https://www.sdu.edu.cn",
+    "logo": "logos/shandong.png",
+    "logo_source": "https://www.sdu.edu.cn/favicon.ico",
+    "aspect_ratio": 0.998
+  },
+  "ifg": {
+    "name": "Federal Institute of Goiás",
+    "website": "https://www.ifg.edu.br",
+    "logo": "logos/ifg.png",
+    "logo_source": "https://www.ifg.edu.br/templates/padraogoverno01/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "jpmorgan": {
+    "name": "JPMorgan Chase",
+    "website": "https://www.jpmorganchase.com",
+    "logo": "logos/jpmorgan.png",
+    "logo_source": "https://www.jpmorganchase.com/etc.clientlibs/cws/clientlibs/clientlib-base/resources/jpmc/images/jpmc-favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "sylph": {
+    "name": "Sylph.AI",
+    "website": "https://sylph.ai",
+    "logo": "logos/sylph.png",
+    "logo_source": "https://sylph.ai/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "ustc": {
+    "name": "University of Science and Technology of China",
+    "website": "https://www.ustc.edu.cn",
+    "logo": "logos/ustc.png",
+    "logo_source": "https://www.ustc.edu.cn/news/images/ustc.ico",
+    "aspect_ratio": 1.0
+  },
+  "emory": {
+    "name": "Emory University",
+    "website": "https://www.emory.edu",
+    "logo": "logos/emory.png",
+    "logo_source": "https://www.emory.edu/themes/emory/favicon.png",
+    "aspect_ratio": 1.0
+  },
+  "beihang": {
+    "name": "Beihang University",
+    "website": "https://www.buaa.edu.cn",
+    "logo": "logos/beihang.png",
+    "logo_source": "https://www.ygb.sdu.edu.cn/__local/E/DE/FD/CED9D9A7B3EC994A4D6A0B64F15_AFCABD9C_C56EE.jpg",
+    "aspect_ratio": 1.108
+  },
+  "ornith": {
+    "name": "Ornith",
+    "website": "https://ornith.ai",
+    "logo": "logos/ornith.png",
+    "logo_source": "https://ornith.ai/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "allenai": {
+    "name": "Allen Institute for AI",
+    "website": "https://allenai.org",
+    "logo": "logos/allenai.png",
+    "logo_source": "https://allenai.org/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "relai": {
+    "name": "RELAI.ai",
+    "website": "https://relai.ai",
+    "logo": "logos/relai.png",
+    "logo_source": "https://relai.ai/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "columbia": {
+    "name": "Columbia University",
+    "website": "https://www.columbia.edu",
+    "logo": "logos/columbia.png",
+    "logo_source": "https://www.cs.columbia.edu/~johnhew/coms4705/imgs/columbia.png",
+    "aspect_ratio": 1.0
+  },
+  "lmu": {
+    "name": "LMU Munich",
+    "website": "https://www.lmu.de",
+    "logo": "logos/lmu.png",
+    "logo_source": "https://cms-cdn.lmu.de/assets/img/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "toronto": {
+    "name": "University of Toronto",
+    "website": "https://www.utoronto.ca",
+    "logo": "logos/toronto.png",
+    "logo_source": "https://www.utoronto.ca/themes/custom/bootstrap_uoft/images/favicons/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "hkbu": {
+    "name": "Hong Kong Baptist University",
+    "website": "https://www.hkbu.edu.hk",
+    "logo": "logos/hkbu.png",
+    "logo_source": "https://www.hkbu.edu.hk/etc.clientlibs/hongkongbaptistuniversity/clientlibs/clientlib-site/resources/images/favicon/hkbu-favicon.png",
+    "aspect_ratio": 1.0
+  },
+  "cmu": {
+    "name": "Carnegie Mellon University",
+    "website": "https://www.cmu.edu",
+    "logo": "logos/cmu.png",
+    "logo_source": "https://www.cmu.edu/themes/custom/cmu_base/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "notredame": {
+    "name": "University of Notre Dame",
+    "website": "https://www.nd.edu",
+    "logo": "logos/notredame.png",
+    "logo_source": "https://www.nd.edu/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "sakana": {
+    "name": "Sakana AI",
+    "website": "https://sakana.ai",
+    "logo": "logos/sakana.png",
+    "logo_source": "https://sakana.ai/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "scale": {
+    "name": "Scale AI",
+    "website": "https://scale.com",
+    "logo": "logos/scale.png",
+    "logo_source": "https://scale.com/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "salesforce": {
+    "name": "Salesforce AI Research",
+    "website": "https://www.salesforce.com",
+    "logo": "logos/salesforce.png",
+    "logo_source": "https://www.salesforce.com/c2/public/app/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "uestc": {
+    "name": "University of Electronic Science and Technology of China",
+    "website": "https://www.uestc.edu.cn",
+    "logo": "logos/uestc.png",
+    "logo_source": "https://www.uestc.edu.cn/images/1.png",
+    "aspect_ratio": 1.0
+  },
+  "nju": {
+    "name": "Nanjing University",
+    "website": "https://www.nju.edu.cn",
+    "logo": "logos/nju.png",
+    "logo_source": "https://www.nju.edu.cn/images/favicon.png",
+    "aspect_ratio": 1.0
+  },
+  "postech": {
+    "name": "POSTECH",
+    "website": "https://www.postech.ac.kr",
+    "logo": "logos/postech.png",
+    "logo_source": "https://www.postech.ac.kr/_res/postech/kor/img/common/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "servicenow": {
+    "name": "ServiceNow",
+    "website": "https://www.servicenow.com",
+    "logo": "logos/servicenow.png",
+    "logo_source": "https://images.ctfassets.net/jdtwqhzvc2n1/AVHhHi3D418wRdkZn9QMy/6cc63c4a00f700cee2839c3226f8e16e/ServiceNow-logo.jpg",
+    "aspect_ratio": 2.0
+  },
+  "krafton": {
+    "name": "KRAFTON",
+    "website": "https://www.krafton.com",
+    "logo": "logos/krafton.png",
+    "logo_source": "https://avatars.githubusercontent.com/u/131753868?v=4",
+    "aspect_ratio": 1.0
+  },
+  "huawei": {
+    "name": "Huawei",
+    "website": "https://www.huawei.com",
+    "logo": "logos/huawei.png",
+    "logo_source": "https://www.huawei.com/-/media/htemplate-home/1.0.1.20251205144752/components/assets/img/apple-touch-icon-precomposed-180.png",
+    "aspect_ratio": 1.0
+  },
+  "cas": {
+    "name": "Chinese Academy of Sciences",
+    "website": "https://www.cas.cn",
+    "logo": "logos/cas.png",
+    "logo_source": "https://www.cas.cn/lib/images/favicon.png",
+    "aspect_ratio": 1.0
+  },
+  "oppo": {
+    "name": "OPPO",
+    "website": "https://www.oppo.com",
+    "logo": "logos/oppo.png",
+    "logo_source": "https://www.oppo.com/jimu/oppo-site/resources/images/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "hexo": {
+    "name": "Hexo Labs",
+    "website": "https://hexo.ai",
+    "logo": "logos/hexo.png",
+    "logo_source": "https://framerusercontent.com/images/sa3TibrqlQ0krJmmfFZu9VppyHU.png",
+    "aspect_ratio": 1.0
+  },
+  "cambridge": {
+    "name": "University of Cambridge",
+    "website": "https://www.cam.ac.uk",
+    "logo": "logos/cambridge.png",
+    "logo_source": "https://www.cam.ac.uk/themes/upstream/cambridge_theme/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "zju": {
+    "name": "Zhejiang University",
+    "website": "https://www.zju.edu.cn",
+    "logo": "logos/zju.png",
+    "logo_source": "https://www.zju.edu.cn/_upload/tpl/0b/bf/3007/template3007/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "seu": {
+    "name": "Southeast University",
+    "website": "https://www.seu.edu.cn",
+    "logo": "logos/seu.png",
+    "logo_source": "https://www.seu.edu.cn/_upload/tpl/0b/59/2905/template2905/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "hust": {
+    "name": "Huazhong University of Science and Technology",
+    "website": "https://www.hust.edu.cn",
+    "logo": "logos/hust.png",
+    "logo_source": "https://www.hust.edu.cn/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "bytedance": {
+    "name": "ByteDance Seed",
+    "website": "https://seed.bytedance.com",
+    "logo": "logos/bytedance.png",
+    "logo_source": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "bit": {
+    "name": "Beijing Institute of Technology",
+    "website": "https://www.bit.edu.cn",
+    "logo": "logos/bit.png",
+    "logo_source": "https://www.bit.edu.cn/images/gb20190805/favicon.ico",
+    "aspect_ratio": 1.0
+  },
+  "meituan": {
+    "name": "Meituan",
+    "website": "https://www.meituan.com",
+    "logo": "logos/meituan.png",
+    "logo_source": "https://s3plus.meituan.net/v1/mss_e2821d7f0cfe4ac1bf9202ecf9590e67/cdn-prod/file:1040877d/favicon-mt.ico",
+    "aspect_ratio": 1.0
+  }
+}
