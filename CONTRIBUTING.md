@@ -34,12 +34,18 @@ Precursor work on automated agent design belongs in the dedicated section, not t
 
 ## Entry format
 
-Each entry is one list item:
+Use a compact numbered list for each section, followed by one shared reading-notes fold:
 
 ```markdown
-- **[Title](https://arxiv.org/abs/XXXX.XXXXX)** — First Author et al. — *Venue Year* — `YYYY-MM`
-  One or two sentences on what it does and why it belongs. Say what is *learned* or
-  *evolved* and what the evidence is.
+1. Title. [[Paper]](https://arxiv.org/abs/XXXX.XXXXX) `arXiv YYYY-MM`
+
+<details>
+<summary>Reading notes — authors, mechanisms, and evidence</summary>
+
+- **Title** — First Author et al., YYYY-MM. One or two sentences on what it does
+  and why it belongs. Say what is *learned* or *evolved* and what the evidence is.
+
+</details>
 ```
 
 Rules:
@@ -50,6 +56,9 @@ Rules:
   "novel" and "state-of-the-art"; give the mechanism or the number instead.
 - **Keep the date** (`YYYY-MM`, first submission). It is the only thing that makes the
   chronology of this area readable.
+- **Use source labels, not inferred venues.** Use `arXiv YYYY-MM` for arXiv papers,
+  `Preprint YYYY-MM` for other preprints, and `[[Blog]](url)` with `Blog YYYY-MM`
+  for technical articles. Add each annotation to the section's existing reading-notes fold.
 - **Do not delete entries.** If something is superseded, add a note; a curated list is a
   record, not a leaderboard.
 - **No invented numbers.** Every figure in an annotation must be traceable to the paper.
@@ -82,6 +91,14 @@ heading and punctuation differences that are deliberate.
 
 Please run it before opening a pull request. If it reports an entry as `unverified`, re-run the
 fetch steps above so the entry gets cached, then re-run the checker.
+
+## Visual assets
+
+The cover is generated artwork; its prompt is saved in `assets/cover-prompt.txt`.
+The research timeline is an editable SVG built from selected README entries. Update the
+selection in `scripts/build_timeline.py`, then run `python3 scripts/build_timeline.py`.
+Keep it selective, use first-submission dates, and do not imply that chronology proves
+capability gains or progress to AGI.
 
 ## Adding a non-arXiv source
 

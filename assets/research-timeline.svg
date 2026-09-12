@@ -1,0 +1,317 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="930" viewBox="0 0 1440 930" role="img" aria-labelledby="title desc">
+<title id="title">Harness Evolution: Selected Research Timeline</title>
+<desc id="desc">Selected works from 2022 to September 2026, grouped by first-submission period and research direction. Unequal time intervals; no performance ranking.</desc>
+<rect width="1440" height="930" rx="20" fill="#0b1220"/>
+<style>text{font-family:Arial,Helvetica,sans-serif} .card{fill:#132033;stroke:#27364b} .paper{font-size:14px;font-weight:600;fill:#f1f5f9} .muted{fill:#9baec6;font-size:13px}</style>
+<text x="32" y="42" fill="#67e8f9" font-size="12" letter-spacing="3">AWESOME HARNESS EVOLUTION</text>
+<text x="32" y="85" fill="#f8fafc" font-size="32" font-weight="700">From agent loops to recursive self-improvement</text>
+<text x="32" y="116" class="muted">Selected research · first-submission dates · full bibliography and reading notes below</text>
+<path d="M32 180 H1400 l-10 -5 m10 5 l-10 5" fill="none" stroke="#526b87" stroke-width="2"/>
+<circle cx="40" cy="180" r="5" fill="#67e8f9"/>
+<text x="32" y="156" fill="#e2e8f0" font-size="17" font-weight="700">2022–2023</text>
+<text x="32" y="210" class="muted">Loops &amp; programs</text>
+<a href="https://arxiv.org/abs/2210.03629"><title>ReAct: Synergizing Reasoning and Acting in Language Models. — Foundations, 2022-10</title>
+<rect x="32" y="238" width="216" height="62" rx="7" class="card"/>
+<rect x="32" y="248" width="3" height="42" rx="1.5" fill="#a5b4fc"/>
+<text x="44" y="263" class="paper">ReAct</text>
+<text x="44" y="285" class="muted">2022-10</text>
+<rect x="213" y="270" width="23" height="19" rx="4" fill="#a5b4fc"/>
+<text x="224.5" y="284" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">F</text></a>
+<a href="https://arxiv.org/abs/2307.16789"><title>ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs. — Primitives, 2023-07</title>
+<rect x="32" y="310" width="216" height="62" rx="7" class="card"/>
+<rect x="32" y="320" width="3" height="42" rx="1.5" fill="#67e8f9"/>
+<text x="44" y="335" class="paper">ToolLLM</text>
+<text x="44" y="357" class="muted">2023-07</text>
+<rect x="213" y="342" width="23" height="19" rx="4" fill="#67e8f9"/>
+<text x="224.5" y="356" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">P</text></a>
+<a href="https://arxiv.org/abs/2310.02304"><title>Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation. — Recursive evolution, 2023-10</title>
+<rect x="32" y="382" width="216" height="62" rx="7" class="card"/>
+<rect x="32" y="392" width="3" height="42" rx="1.5" fill="#c4b5fd"/>
+<text x="44" y="407" class="paper">STOP</text>
+<text x="44" y="429" class="muted">2023-10</text>
+<rect x="213" y="414" width="23" height="19" rx="4" fill="#c4b5fd"/>
+<text x="224.5" y="428" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">R</text></a>
+<a href="https://arxiv.org/abs/2310.03714"><title>DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines. — Search, 2023-10</title>
+<rect x="32" y="454" width="216" height="62" rx="7" class="card"/>
+<rect x="32" y="464" width="3" height="42" rx="1.5" fill="#fbbf24"/>
+<text x="44" y="479" class="paper">DSPy</text>
+<text x="44" y="501" class="muted">2023-10</text>
+<rect x="213" y="486" width="23" height="19" rx="4" fill="#fbbf24"/>
+<text x="224.5" y="500" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">S</text></a>
+<circle cx="270" cy="180" r="5" fill="#67e8f9"/>
+<text x="262" y="156" fill="#e2e8f0" font-size="17" font-weight="700">2024</text>
+<text x="262" y="210" class="muted">Searchable scaffolds</text>
+<a href="https://arxiv.org/abs/2402.16823"><title>Language Agents as Optimizable Graphs. — Foundations, 2024-02</title>
+<rect x="262" y="238" width="216" height="62" rx="7" class="card"/>
+<rect x="262" y="248" width="3" height="42" rx="1.5" fill="#a5b4fc"/>
+<text x="274" y="263" class="paper">GPTSwarm</text>
+<text x="274" y="285" class="muted">2024-02</text>
+<rect x="443" y="270" width="23" height="19" rx="4" fill="#a5b4fc"/>
+<text x="454.5" y="284" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">F</text></a>
+<a href="https://arxiv.org/abs/2405.15793"><title>SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering. — Primitives, 2024-05</title>
+<rect x="262" y="310" width="216" height="62" rx="7" class="card"/>
+<rect x="262" y="320" width="3" height="42" rx="1.5" fill="#67e8f9"/>
+<text x="274" y="335" class="paper">SWE-agent</text>
+<text x="274" y="357" class="muted">2024-05</text>
+<rect x="443" y="342" width="23" height="19" rx="4" fill="#67e8f9"/>
+<text x="454.5" y="356" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">P</text></a>
+<a href="https://arxiv.org/abs/2406.07496"><title>TextGrad: Automatic &quot;Differentiation&quot; via Text. — Search, 2024-06</title>
+<rect x="262" y="382" width="216" height="62" rx="7" class="card"/>
+<rect x="262" y="392" width="3" height="42" rx="1.5" fill="#fbbf24"/>
+<text x="274" y="407" class="paper">TextGrad</text>
+<text x="274" y="429" class="muted">2024-06</text>
+<rect x="443" y="414" width="23" height="19" rx="4" fill="#fbbf24"/>
+<text x="454.5" y="428" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">S</text></a>
+<a href="https://arxiv.org/abs/2408.08435"><title>Automated Design of Agentic Systems. — Search, 2024-08</title>
+<rect x="262" y="454" width="216" height="62" rx="7" class="card"/>
+<rect x="262" y="464" width="3" height="42" rx="1.5" fill="#fbbf24"/>
+<text x="274" y="479" class="paper">ADAS</text>
+<text x="274" y="501" class="muted">2024-08</text>
+<rect x="443" y="486" width="23" height="19" rx="4" fill="#fbbf24"/>
+<text x="454.5" y="500" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">S</text></a>
+<a href="https://arxiv.org/abs/2408.09559"><title>HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model. — Primitives, 2024-08</title>
+<rect x="262" y="526" width="216" height="62" rx="7" class="card"/>
+<rect x="262" y="536" width="3" height="42" rx="1.5" fill="#67e8f9"/>
+<text x="274" y="551" class="paper">HiAgent</text>
+<text x="274" y="573" class="muted">2024-08</text>
+<rect x="443" y="558" width="23" height="19" rx="4" fill="#67e8f9"/>
+<text x="454.5" y="572" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">P</text></a>
+<a href="https://arxiv.org/abs/2410.04444"><title>Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement. — Recursive evolution, 2024-10</title>
+<rect x="262" y="598" width="216" height="62" rx="7" class="card"/>
+<rect x="262" y="608" width="3" height="42" rx="1.5" fill="#c4b5fd"/>
+<text x="274" y="623" class="paper">Gödel Agent</text>
+<text x="274" y="645" class="muted">2024-10</text>
+<rect x="443" y="630" width="23" height="19" rx="4" fill="#c4b5fd"/>
+<text x="454.5" y="644" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">R</text></a>
+<a href="https://arxiv.org/abs/2410.10762"><title>AFlow: Automating Agentic Workflow Generation. — Search, 2024-10</title>
+<rect x="262" y="670" width="216" height="62" rx="7" class="card"/>
+<rect x="262" y="680" width="3" height="42" rx="1.5" fill="#fbbf24"/>
+<text x="274" y="695" class="paper">AFlow</text>
+<text x="274" y="717" class="muted">2024-10</text>
+<rect x="443" y="702" width="23" height="19" rx="4" fill="#fbbf24"/>
+<text x="454.5" y="716" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">S</text></a>
+<circle cx="500" cy="180" r="5" fill="#67e8f9"/>
+<text x="492" y="156" fill="#e2e8f0" font-size="17" font-weight="700">2025</text>
+<text x="492" y="210" class="muted">Self-modifying agents</text>
+<a href="https://arxiv.org/abs/2504.07079"><title>SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills. — Primitives, 2025-04</title>
+<rect x="492" y="238" width="216" height="62" rx="7" class="card"/>
+<rect x="492" y="248" width="3" height="42" rx="1.5" fill="#67e8f9"/>
+<text x="504" y="263" class="paper">SkillWeaver</text>
+<text x="504" y="285" class="muted">2025-04</text>
+<rect x="673" y="270" width="23" height="19" rx="4" fill="#67e8f9"/>
+<text x="684.5" y="284" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">P</text></a>
+<a href="https://arxiv.org/abs/2504.19413"><title>Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory. — Primitives, 2025-04</title>
+<rect x="492" y="310" width="216" height="62" rx="7" class="card"/>
+<rect x="492" y="320" width="3" height="42" rx="1.5" fill="#67e8f9"/>
+<text x="504" y="335" class="paper">Mem0</text>
+<text x="504" y="357" class="muted">2025-04</text>
+<rect x="673" y="342" width="23" height="19" rx="4" fill="#67e8f9"/>
+<text x="684.5" y="356" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">P</text></a>
+<a href="https://arxiv.org/abs/2505.22954"><title>Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents. — Recursive evolution, 2025-05</title>
+<rect x="492" y="382" width="216" height="62" rx="7" class="card"/>
+<rect x="492" y="392" width="3" height="42" rx="1.5" fill="#c4b5fd"/>
+<text x="504" y="407" class="paper">Darwin Gödel Machine</text>
+<text x="504" y="429" class="muted">2025-05</text>
+<rect x="673" y="414" width="23" height="19" rx="4" fill="#c4b5fd"/>
+<text x="684.5" y="428" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">R</text></a>
+<a href="https://arxiv.org/abs/2507.03616"><title>EvoAgentX: An Automated Framework for Evolving Agentic Workflows. — Search, 2025-07</title>
+<rect x="492" y="454" width="216" height="62" rx="7" class="card"/>
+<rect x="492" y="464" width="3" height="42" rx="1.5" fill="#fbbf24"/>
+<text x="504" y="479" class="paper">EvoAgentX</text>
+<text x="504" y="501" class="muted">2025-07</text>
+<rect x="673" y="486" width="23" height="19" rx="4" fill="#fbbf24"/>
+<text x="684.5" y="500" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">S</text></a>
+<a href="https://arxiv.org/abs/2510.10232"><title>SGM: A Statistical Gödel Machine for Risk-Controlled Recursive Self-Modification. — Recursive evolution, 2025-10</title>
+<rect x="492" y="526" width="216" height="62" rx="7" class="card"/>
+<rect x="492" y="536" width="3" height="42" rx="1.5" fill="#c4b5fd"/>
+<text x="504" y="551" class="paper">Statistical Gödel Machine</text>
+<text x="504" y="573" class="muted">2025-10</text>
+<rect x="673" y="558" width="23" height="19" rx="4" fill="#c4b5fd"/>
+<text x="684.5" y="572" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">R</text></a>
+<a href="https://arxiv.org/abs/2511.13646"><title>Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly? — Online evolution, 2025-11</title>
+<rect x="492" y="598" width="216" height="62" rx="7" class="card"/>
+<rect x="492" y="608" width="3" height="42" rx="1.5" fill="#6ee7b7"/>
+<text x="504" y="623" class="paper">Live-SWE-agent</text>
+<text x="504" y="645" class="muted">2025-11</text>
+<rect x="673" y="630" width="23" height="19" rx="4" fill="#6ee7b7"/>
+<text x="684.5" y="644" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">O</text></a>
+<a href="https://arxiv.org/abs/2512.18746"><title>MemEvolve: Meta-Evolution of Agent Memory Systems. — Recursive evolution, 2025-12</title>
+<rect x="492" y="670" width="216" height="62" rx="7" class="card"/>
+<rect x="492" y="680" width="3" height="42" rx="1.5" fill="#c4b5fd"/>
+<text x="504" y="695" class="paper">MemEvolve</text>
+<text x="504" y="717" class="muted">2025-12</text>
+<rect x="673" y="702" width="23" height="19" rx="4" fill="#c4b5fd"/>
+<text x="684.5" y="716" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">R</text></a>
+<circle cx="730" cy="180" r="5" fill="#67e8f9"/>
+<text x="722" y="156" fill="#e2e8f0" font-size="17" font-weight="700">2026 · JAN–JUN</text>
+<text x="722" y="210" class="muted">The harness as an object</text>
+<a href="https://arxiv.org/abs/2603.03329"><title>AutoHarness: improving LLM agents by automatically synthesizing a code harness. — Search, 2026-03</title>
+<rect x="722" y="238" width="216" height="62" rx="7" class="card"/>
+<rect x="722" y="248" width="3" height="42" rx="1.5" fill="#fbbf24"/>
+<text x="734" y="263" class="paper">AutoHarness</text>
+<text x="734" y="285" class="muted">2026-03</text>
+<rect x="903" y="270" width="23" height="19" rx="4" fill="#fbbf24"/>
+<text x="914.5" y="284" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">S</text></a>
+<a href="https://arxiv.org/abs/2603.28052"><title>Meta-Harness: End-to-End Optimization of Model Harnesses. — Search, 2026-03</title>
+<rect x="722" y="310" width="216" height="62" rx="7" class="card"/>
+<rect x="722" y="320" width="3" height="42" rx="1.5" fill="#fbbf24"/>
+<text x="734" y="335" class="paper">Meta-Harness</text>
+<text x="734" y="357" class="muted">2026-03</text>
+<rect x="903" y="342" width="23" height="19" rx="4" fill="#fbbf24"/>
+<text x="914.5" y="356" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">S</text></a>
+<a href="https://arxiv.org/abs/2604.21003"><title>The Last Harness You&#x27;ll Ever Build. — Recursive evolution, 2026-04</title>
+<rect x="722" y="382" width="216" height="62" rx="7" class="card"/>
+<rect x="722" y="392" width="3" height="42" rx="1.5" fill="#c4b5fd"/>
+<text x="734" y="407" class="paper">The Last Harness</text>
+<text x="734" y="429" class="muted">2026-04</text>
+<rect x="903" y="414" width="23" height="19" rx="4" fill="#c4b5fd"/>
+<text x="914.5" y="428" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">R</text></a>
+<a href="https://arxiv.org/abs/2605.09998"><title>Continual Harness: Online Adaptation for Self-Improving Foundation Agents. — Online evolution, 2026-05</title>
+<rect x="722" y="454" width="216" height="62" rx="7" class="card"/>
+<rect x="722" y="464" width="3" height="42" rx="1.5" fill="#6ee7b7"/>
+<text x="734" y="479" class="paper">Continual Harness</text>
+<text x="734" y="501" class="muted">2026-05</text>
+<rect x="903" y="486" width="23" height="19" rx="4" fill="#6ee7b7"/>
+<text x="914.5" y="500" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">O</text></a>
+<a href="https://arxiv.org/abs/2605.27922"><title>Harness-Bench: Measuring Harness Effects across Models in Realistic Agent Workflows. — Evaluation / critique, 2026-05</title>
+<rect x="722" y="526" width="216" height="62" rx="7" class="card"/>
+<rect x="722" y="536" width="3" height="42" rx="1.5" fill="#fda4af"/>
+<text x="734" y="551" class="paper">Harness-Bench</text>
+<text x="734" y="573" class="muted">2026-05</text>
+<rect x="903" y="558" width="23" height="19" rx="4" fill="#fda4af"/>
+<text x="914.5" y="572" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">E</text></a>
+<a href="https://arxiv.org/abs/2606.09498"><title>Self-Harness: Harnesses That Improve Themselves. — Online evolution, 2026-06</title>
+<rect x="722" y="598" width="216" height="62" rx="7" class="card"/>
+<rect x="722" y="608" width="3" height="42" rx="1.5" fill="#6ee7b7"/>
+<text x="734" y="623" class="paper">Self-Harness</text>
+<text x="734" y="645" class="muted">2026-06</text>
+<rect x="903" y="630" width="23" height="19" rx="4" fill="#6ee7b7"/>
+<text x="914.5" y="644" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">O</text></a>
+<a href="https://ornith.ai/ornith_1_0.html"><title>Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding. — Training / co-evolution, 2026-06</title>
+<rect x="722" y="670" width="216" height="62" rx="7" class="card"/>
+<rect x="722" y="680" width="3" height="42" rx="1.5" fill="#f9a8d4"/>
+<text x="734" y="695" class="paper">Ornith-1.0</text>
+<text x="734" y="717" class="muted">2026-06</text>
+<rect x="903" y="702" width="23" height="19" rx="4" fill="#f9a8d4"/>
+<text x="914.5" y="716" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">T</text></a>
+<circle cx="960" cy="180" r="5" fill="#67e8f9"/>
+<text x="952" y="156" fill="#e2e8f0" font-size="17" font-weight="700">2026 · JUL</text>
+<text x="952" y="210" class="muted">Evolution under scrutiny</text>
+<a href="https://arxiv.org/abs/2607.05297"><title>MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution. — Recursive evolution, 2026-07</title>
+<rect x="952" y="238" width="216" height="62" rx="7" class="card"/>
+<rect x="952" y="248" width="3" height="42" rx="1.5" fill="#c4b5fd"/>
+<text x="964" y="263" class="paper">MetaSkill-Evolve</text>
+<text x="964" y="285" class="muted">2026-07</text>
+<rect x="1133" y="270" width="23" height="19" rx="4" fill="#c4b5fd"/>
+<text x="1144.5" y="284" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">R</text></a>
+<a href="https://arxiv.org/abs/2607.08124"><title>TTHE: Test-Time Harness Evolution. — Online evolution, 2026-07</title>
+<rect x="952" y="310" width="216" height="62" rx="7" class="card"/>
+<rect x="952" y="320" width="3" height="42" rx="1.5" fill="#6ee7b7"/>
+<text x="964" y="335" class="paper">TTHE</text>
+<text x="964" y="357" class="muted">2026-07</text>
+<rect x="1133" y="342" width="23" height="19" rx="4" fill="#6ee7b7"/>
+<text x="1144.5" y="356" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">O</text></a>
+<a href="https://arxiv.org/abs/2607.12227"><title>Rethinking the Evaluation of Harness Evolution for Agents. — Evaluation / critique, 2026-07</title>
+<rect x="952" y="382" width="216" height="62" rx="7" class="card"/>
+<rect x="952" y="392" width="3" height="42" rx="1.5" fill="#fda4af"/>
+<text x="964" y="407" class="paper">Rethinking Evaluation</text>
+<text x="964" y="429" class="muted">2026-07</text>
+<rect x="1133" y="414" width="23" height="19" rx="4" fill="#fda4af"/>
+<text x="1144.5" y="428" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">E</text></a>
+<a href="https://arxiv.org/abs/2607.13683"><title>HarnessBank: Semantic Gene-Bank Search with Gated Verification for Agent-Harness Self-Evolution. — Search, 2026-07</title>
+<rect x="952" y="454" width="216" height="62" rx="7" class="card"/>
+<rect x="952" y="464" width="3" height="42" rx="1.5" fill="#fbbf24"/>
+<text x="964" y="479" class="paper">HarnessBank</text>
+<text x="964" y="501" class="muted">2026-07</text>
+<rect x="1133" y="486" width="23" height="19" rx="4" fill="#fbbf24"/>
+<text x="1144.5" y="500" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">S</text></a>
+<a href="https://arxiv.org/abs/2607.14004"><title>Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0. — Evaluation / critique, 2026-07</title>
+<rect x="952" y="526" width="216" height="62" rx="7" class="card"/>
+<rect x="952" y="536" width="3" height="42" rx="1.5" fill="#fda4af"/>
+<text x="964" y="551" class="paper">Do Optimizers Compound?</text>
+<text x="964" y="573" class="muted">2026-07</text>
+<rect x="1133" y="558" width="23" height="19" rx="4" fill="#fda4af"/>
+<text x="1144.5" y="572" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">E</text></a>
+<a href="https://arxiv.org/abs/2607.15524"><title>Recursive Harness Self-Improvement. — Training / co-evolution, 2026-07</title>
+<rect x="952" y="598" width="216" height="62" rx="7" class="card"/>
+<rect x="952" y="608" width="3" height="42" rx="1.5" fill="#f9a8d4"/>
+<text x="964" y="623" class="paper">Recursive Harness SI</text>
+<text x="964" y="645" class="muted">2026-07</text>
+<rect x="1133" y="630" width="23" height="19" rx="4" fill="#f9a8d4"/>
+<text x="1144.5" y="644" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">T</text></a>
+<circle cx="1190" cy="180" r="5" fill="#67e8f9"/>
+<text x="1182" y="156" fill="#e2e8f0" font-size="17" font-weight="700">2026 · AUG–SEP</text>
+<text x="1182" y="210" class="muted">Learning to evolve</text>
+<a href="https://arxiv.org/abs/2608.02276"><title>Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories. — Training / co-evolution, 2026-08</title>
+<rect x="1182" y="238" width="216" height="62" rx="7" class="card"/>
+<rect x="1182" y="248" width="3" height="42" rx="1.5" fill="#f9a8d4"/>
+<text x="1194" y="263" class="paper">Harness-R1</text>
+<text x="1194" y="285" class="muted">2026-08</text>
+<rect x="1363" y="270" width="23" height="19" rx="4" fill="#f9a8d4"/>
+<text x="1374.5" y="284" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">T</text></a>
+<a href="https://arxiv.org/abs/2608.06301"><title>HarnessOpt-Bench: Evaluating LLMs at Harness Optimization. — Evaluation / critique, 2026-08</title>
+<rect x="1182" y="310" width="216" height="62" rx="7" class="card"/>
+<rect x="1182" y="320" width="3" height="42" rx="1.5" fill="#fda4af"/>
+<text x="1194" y="335" class="paper">HarnessOpt-Bench</text>
+<text x="1194" y="357" class="muted">2026-08</text>
+<rect x="1363" y="342" width="23" height="19" rx="4" fill="#fda4af"/>
+<text x="1374.5" y="356" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">E</text></a>
+<a href="https://arxiv.org/abs/2608.13951"><title>HELIX: Model-Harness Co-evolution for Recursive Self-Improvement. — Training / co-evolution, 2026-08</title>
+<rect x="1182" y="382" width="216" height="62" rx="7" class="card"/>
+<rect x="1182" y="392" width="3" height="42" rx="1.5" fill="#f9a8d4"/>
+<text x="1194" y="407" class="paper">HELIX</text>
+<text x="1194" y="429" class="muted">2026-08</text>
+<rect x="1363" y="414" width="23" height="19" rx="4" fill="#f9a8d4"/>
+<text x="1374.5" y="428" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">T</text></a>
+<a href="https://arxiv.org/abs/2608.25593"><title>JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution. — Search, 2026-08</title>
+<rect x="1182" y="454" width="216" height="62" rx="7" class="card"/>
+<rect x="1182" y="464" width="3" height="42" rx="1.5" fill="#fbbf24"/>
+<text x="1194" y="479" class="paper">JIT-Agent</text>
+<text x="1194" y="501" class="muted">2026-08</text>
+<rect x="1363" y="486" width="23" height="19" rx="4" fill="#fbbf24"/>
+<text x="1374.5" y="500" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">S</text></a>
+<a href="https://arxiv.org/abs/2609.00196"><title>WHALE: A Simple Recipe for Joint Harness-Weight Optimization. — Training / co-evolution, 2026-09</title>
+<rect x="1182" y="526" width="216" height="62" rx="7" class="card"/>
+<rect x="1182" y="536" width="3" height="42" rx="1.5" fill="#f9a8d4"/>
+<text x="1194" y="551" class="paper">WHALE</text>
+<text x="1194" y="573" class="muted">2026-09</text>
+<rect x="1363" y="558" width="23" height="19" rx="4" fill="#f9a8d4"/>
+<text x="1374.5" y="572" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">T</text></a>
+<a href="https://arxiv.org/abs/2609.01437"><title>HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness? — Evaluation / critique, 2026-09</title>
+<rect x="1182" y="598" width="216" height="62" rx="7" class="card"/>
+<rect x="1182" y="608" width="3" height="42" rx="1.5" fill="#fda4af"/>
+<text x="1194" y="623" class="paper">HarnessDev</text>
+<text x="1194" y="645" class="muted">2026-09</text>
+<rect x="1363" y="630" width="23" height="19" rx="4" fill="#fda4af"/>
+<text x="1374.5" y="644" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">E</text></a>
+<a href="https://arxiv.org/abs/2609.06396"><title>MetaRSI / RSI2: A Meta-Recursive Self-Improving System for Recursive Self-Improving Systems Themselves. — Recursive evolution, 2026-09</title>
+<rect x="1182" y="670" width="216" height="62" rx="7" class="card"/>
+<rect x="1182" y="680" width="3" height="42" rx="1.5" fill="#c4b5fd"/>
+<text x="1194" y="695" class="paper">MetaRSI / RSI2</text>
+<text x="1194" y="717" class="muted">2026-09</text>
+<rect x="1363" y="702" width="23" height="19" rx="4" fill="#c4b5fd"/>
+<text x="1374.5" y="716" text-anchor="middle" fill="#0b1220" font-size="12" font-weight="700">R</text></a>
+<path d="M32 770 H1408" stroke="#27364b"/>
+<rect x="32" y="793" width="23" height="22" rx="4" fill="#a5b4fc"/>
+<text x="43.5" y="809" text-anchor="middle" font-size="13" font-weight="700" fill="#0b1220">F</text>
+<text x="66" y="809" font-size="15" fill="#d7e2f0">Foundations</text>
+<rect x="378" y="793" width="23" height="22" rx="4" fill="#67e8f9"/>
+<text x="389.5" y="809" text-anchor="middle" font-size="13" font-weight="700" fill="#0b1220">P</text>
+<text x="412" y="809" font-size="15" fill="#d7e2f0">Primitives</text>
+<rect x="724" y="793" width="23" height="22" rx="4" fill="#fbbf24"/>
+<text x="735.5" y="809" text-anchor="middle" font-size="13" font-weight="700" fill="#0b1220">S</text>
+<text x="758" y="809" font-size="15" fill="#d7e2f0">Search</text>
+<rect x="1070" y="793" width="23" height="22" rx="4" fill="#6ee7b7"/>
+<text x="1081.5" y="809" text-anchor="middle" font-size="13" font-weight="700" fill="#0b1220">O</text>
+<text x="1104" y="809" font-size="15" fill="#d7e2f0">Online evolution</text>
+<rect x="32" y="830" width="23" height="22" rx="4" fill="#c4b5fd"/>
+<text x="43.5" y="846" text-anchor="middle" font-size="13" font-weight="700" fill="#0b1220">R</text>
+<text x="66" y="846" font-size="15" fill="#d7e2f0">Recursive evolution</text>
+<rect x="378" y="830" width="23" height="22" rx="4" fill="#f9a8d4"/>
+<text x="389.5" y="846" text-anchor="middle" font-size="13" font-weight="700" fill="#0b1220">T</text>
+<text x="412" y="846" font-size="15" fill="#d7e2f0">Training / co-evolution</text>
+<rect x="724" y="830" width="23" height="22" rx="4" fill="#fda4af"/>
+<text x="735.5" y="846" text-anchor="middle" font-size="13" font-weight="700" fill="#0b1220">E</text>
+<text x="758" y="846" font-size="15" fill="#d7e2f0">Evaluation / critique</text>
+<text x="32" y="900" class="muted">Reading map, not a leaderboard. Time bins have unequal duration; chronology does not establish capability gains.</text>
+</svg>

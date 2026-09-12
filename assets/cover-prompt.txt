@@ -1,0 +1,11 @@
+Generated with the built-in image_gen tool.
+
+Use case: stylized-concept
+Asset type: wide GitHub README cover banner, approximately 3:1 aspect ratio, polished research identity.
+Primary request: Awesome Harness Evolution, a curated research collection about AI agent harnesses that recursively improve their own executable scaffolding. Express recursive self-improvement (RSI) and the scientific ambition toward AGI, as an evocative conceptual artwork, not a claim AGI has been achieved.
+Scene/backdrop: very dark midnight navy, fine blueprint coordinate grid and subtle mathematical/code-like microtexture fading into black.
+Subject: on the right half, an elegant luminous self-referential toroidal structure / recursive spiral constructed from nested thin translucent computational frames, fine circuit paths and branching nodes. A stable small white computational core surrounded by successive layers of scaffolding visibly reorganizing and improving themselves. One continuous cyan feedback path loops from output back into the architecture; some amber nodes punctuate the evolution. Sophisticated technical 3D linework, not a generic robot or brain. Restrained cyan/ice-blue light, a few warm amber highlights, tremendous depth, precise and beautiful.
+Composition: generous negative space on the left for extremely legible editorial typography; visual structure on right, no overlap. Wide cinematic banner with all content comfortably within margins.
+Text verbatim: small upper-left eyebrow "RECURSIVE SELF-IMPROVEMENT"; large left-aligned title on two lines "Awesome Harness" and "Evolution"; small subtitle "Agents that improve their own scaffolding."
+Typography: clean white modern sans serif, sophisticated hierarchy, crisp and accurately spelled. Title dominant, subtitle quiet. 
+Constraints: no logos, no stock watermarks, no institutional marks, no charts or paper names. Research-grade aesthetic, restrained futurism, clean enough to read at 800px wide.

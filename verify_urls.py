@@ -91,12 +91,16 @@ def main():
         if slug(h).strip("-") not in toc and h not in ("Contents",):
             warnings.append(f"heading not in ToC: {h}")
 
-    # ---- entries:  - [Title](url) — Authors, YYYY-MM. Description.
+    # ---- compact entries: 1. Title. [[Paper]](url) `arXiv YYYY-MM`
     seen = {}
     entries = re.findall(
-        r"^- \[(.+?)\]\((https?://[^)]+)\) — (.+?), (\d{4}-\d{2})\. (.+)$", text, re.M
+        r"^1\. (.+?) \[\[(?:Paper|Blog)\]\]\((https?://[^)]+)\) "
+        r"`(?:arXiv|Preprint|Blog) (\d{4}-\d{2})`$", text, re.M
     )
-    for title, url, author, date, _desc in entries:
+    if not entries:
+        errors.append("no bibliography entries parsed; check the README entry format")
+    for title, url, date in entries:
+        title = title.removesuffix(".")
         if "arxiv.org/abs/" in url:
             aid = url.rsplit("/", 1)[-1]
             if aid in seen:
