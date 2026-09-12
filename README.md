@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner-rsi.png" alt="Awesome Harness Evolution" width="100%">
+  <img src="assets/banner.jpg" alt="Awesome Harness Evolution" width="100%">
   <h1>Awesome Harness Evolution</h1>
   <p>A reading list on the agent harness and the research that automates it.</p>
   <p>
