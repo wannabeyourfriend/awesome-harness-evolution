@@ -160,6 +160,7 @@ The harness is found before deployment, by search or by an outer optimization lo
 1. Better Harnesses, Smaller Models: Building 90% Cheaper Agents via Automated Harness Adaptation. [[Paper]](https://arxiv.org/abs/2607.08938) `arXiv 2026-07`
 1. Scaling Laws for Agent Harnesses via Effective Feedback Compute. [[Paper]](https://arxiv.org/abs/2605.29682) `arXiv 2026-05`
 1. Verify Smarter, Evolve Further: Efficient Harness Evolution through Behavior-Aware Verification. [[Paper]](https://arxiv.org/abs/2608.27311) `arXiv 2026-08`
+1. AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation. [[Paper]](https://arxiv.org/abs/2609.35530) `arXiv 2026-09`
 
 
 <details>
@@ -180,7 +181,7 @@ The harness is found before deployment, by search or by an outer optimization lo
 - **Better Harnesses, Smaller Models: Building 90% Cheaper Agents via Automated Harness Adaptation** — Yang et al., 2026-07. Maps failure modes to harness-adaptation strategies and targets cost rather than peak accuracy. The strongest cost-side evidence that harness choice can partly substitute for model scale.
 - **Scaling Laws for Agent Harnesses via Effective Feedback Compute** — Zhang et al., 2026-05. Argues raw test-time expenditure cannot distinguish useful feedback from redundant interaction, and proposes effective feedback compute as the measurable quantity.
 - **Verify Smarter, Evolve Further: Efficient Harness Evolution through Behavior-Aware Verification** — Xu et al., 2026-08. Targets the field's main compute bottleneck: the cost of verifying candidate harness edits.
-
+- **AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation** — Oshima et al., 2026-09. Instead of retraining image generators, AutoRef automatically optimizes the agent harness around them. By improving prompting, diverse drafting, failure diagnosis, revision, and selection, it substantially boosts multi-reference generation with frozen models.
 </details>
 
 ### Test-Time & Online Evolution
