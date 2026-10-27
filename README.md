@@ -275,6 +275,7 @@ Evolved harnesses break. Before you can fix one, you have to know what is broken
 </details>
 
 ---
+- **[LevelBench-100: Multi-System Agentic Accounting & Harness Verification](https://levelcfo.com/benchmarks/agentic-accounting/)** ([Code & Data](https://github.com/levelcfo/levelbench-100)) - Quantifies the 32.4-point accuracy drop between single-source extraction (96.0%) and cross-system reconciliation (63.6%) across 75 live runs, introducing a 6-fault taxonomy and 4-gate verification harness.
 
 ## Model–Harness Co-Evolution
 
